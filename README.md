@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m @jaymehta002<br>- 👀 I’m interested in programming and development.<br>- 🌱 I’m currently learning web development, NodeJS, react, blockchain.<br>- 💞️ I’m looking to collaborate on any project small or big. I want to learn how things work. <br>- 📫 How to reach me? you can mail me jaymehta002@gmail.com
+- 👋 Hi, I’m @jaymehta002<br>
+- 👀 I’m interested in programming and development.<br>
+- 🌱 I’m currently learning web development, NodeJS, react, blockchain.<br>
+- 💞️ I’m looking to collaborate on any project small or big. I want to learn how things work. <br>
+- 📫 How to reach me? you can mail me jaymehta002@gmail.com
 
 
 ## 🌐 Socials:
