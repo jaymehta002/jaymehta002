@@ -185,8 +185,8 @@ A visual, interactive API route-tree explorer for Express, Next.js, and NestJS a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
 
-<div align="center">
+<!-- <div align="center">
 <sub>Proudly built with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 <br/>
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=jaymehta002&icon=0&color=6" /></a>
-</div>
+</div> -->
